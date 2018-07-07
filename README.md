@@ -6,7 +6,7 @@ Este Repositorio posee diferentes carpetas con las actividades realizadas en el 
 A la fecha (7 de julio) se han desarrollado los siguientes temas
 (cada clase llevara una carpeta si dicha clase desarrollo una actividad)
 
-# CLASE 1
+# CLASE 1 (9 de junio)
 TEMAS
 * Introducción
 * Prototipado
@@ -25,7 +25,7 @@ _Descripcion: Se trabajaron los 3 estados para desarrollar graficamente una apli
     c. Mockup
 ---
 
-# CLASE 2
+# CLASE 2 (16 de junio)
 TEMAS
 * Html
 * Css
@@ -41,7 +41,7 @@ TEMAS
 _Descripcion: El proyecto era hacer un sitio web lo mas parecido al modolo enviado: www.modulosdesk.com_
 
 ---
-# CLASE 3
+# CLASE 3 (23 de junio)
 
 TEMAS
 * Javascript
@@ -50,14 +50,14 @@ TEMAS
 * Node
 * Npm
 * Ionic
-* Cobinaciones Css
+* Combinaciones Css
 * Creacion grupos y tema proyecto
 
 **CARPETA: Gol**
 ---
 _Descripcion: Hacer una animacion de un gol_
 
-# CLASE 4
+# CLASE 4 (30 de jnio)
 
 TEMAS
 * Ecmasript (ES6)
@@ -67,3 +67,5 @@ TEMAS
 ---
 _Descripcion: Hacer un pantallazo con el listado de los partidos del mundial con sus banderas_
 
+---
+**_Aqui inicia la clase No. 5_** (7 de julio)
