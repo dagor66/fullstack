@@ -7,7 +7,6 @@ A la fecha (7 de julio) se han desarrollado los siguientes temas
 (cada clase llevara una carpeta si dicha clase desarrollo una actividad)
 
 # CLASE 1
-
 TEMAS
 * Introducción
 * Prototipado
@@ -20,20 +19,22 @@ Descripcion: Se trabajaron los 3 estados para desarrollar graficamente una aplic
 ---
     a. Sketch
 ---
-    b. Wireframe
+    b. Wireframe 
 ---
     c. Mockup
-
+    
 # CLASE 2
-
 TEMAS
 * Html
 * Css
 * Sass
 
 **CARPETAS: 
-1. Mihojadevida
+---
+**1. Mihojadevida
+---
 **2. Modulosdesk**
+---
 Descripcion: El proyecto era hacer un sitio web lo mas parecido al modolo enviado: www.modulosdesk.com
 
 # CLASE 3
