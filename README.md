@@ -37,6 +37,9 @@ TEMAS
 **1. Mihojadevida**
 ---
 **2. Modulosdesk**
+
+![IMAGE](modulosdesk.png "mi modulosdesk.com")
+
 ---
 _Descripcion: El proyecto era hacer un sitio web lo mas parecido al modolo enviado: www.modulosdesk.com_
 
@@ -54,6 +57,8 @@ TEMAS
 * Creacion grupos y tema proyecto
 
 **CARPETA: Gol**
+
+![IMAGE](gol.png "mi gol")
 ---
 _Descripcion: Hacer una animacion de un gol_
 
@@ -64,6 +69,8 @@ TEMAS
 * Angular
 
 **CARPETA: Listado de partidos**
+
+![IMAGE](partidos.png "mi listado de partidos")
 ---
 _Descripcion: Hacer un pantallazo con el listado de los partidos del mundial con sus banderas_
 
