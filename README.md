@@ -15,7 +15,7 @@ TEMAS
 
 ![IMAGE](sketch.jpg "Sketch")
 
-Descripcion: Se trabajaron los 3 estados para desarrollar graficamente una aplicacion:
+*Descripcion: Se trabajaron los 3 estados para desarrollar graficamente una aplicacion:
 
 ---
     a. Sketch
@@ -38,7 +38,7 @@ TEMAS
 ---
 **2. Modulosdesk**
 ---
-Descripcion: El proyecto era hacer un sitio web lo mas parecido al modolo enviado: www.modulosdesk.com
+*Descripcion: El proyecto era hacer un sitio web lo mas parecido al modolo enviado: www.modulosdesk.com
 
 ---
 # CLASE 3
@@ -55,7 +55,7 @@ TEMAS
 
 **CARPETA: Gol**
 ---
-Descripcion: Hacer una animacion de un gol
+*Descripcion: Hacer una animacion de un gol
 
 # CLASE 4
 
@@ -65,5 +65,5 @@ TEMAS
 
 **CARPETA: Listado de partidos**
 ---
-Descripcion: Hacer un pantallazo con el listado de los partidos del mundial con sus banderas
+*Descripcion: Hacer un pantallazo con el listado de los partidos del mundial con sus banderas
 
