@@ -31,6 +31,7 @@ TEMAS
 * Css
 * Sass
 
+---
 **CARPETAS:** 
 ---
 **1. Mihojadevida**
@@ -53,6 +54,7 @@ TEMAS
 * Creacion grupos y tema proyecto
 
 **CARPETA: Gol**
+---
 Descripcion: Hacer una animacion de un gol
 
 # CLASE 4
@@ -62,5 +64,6 @@ TEMAS
 * Angular
 
 **CARPETA: Listado de partidos**
+---
 Descripcion: Hacer un pantallazo con el listado de los partidos del mundial con sus banderas
 
