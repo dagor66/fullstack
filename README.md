@@ -14,7 +14,7 @@ TEMAS
 
 **CARPETA: Prototipado mimascota.me**
 
-![SKETCH](URL "sketch.jpg")
+![IMAGE](sketch.jpg "Sketch")
 
 Descripcion: Se trabajaron los 3 estados para desarrollar graficamente una aplicacion:
     a. Sketch
