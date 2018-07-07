@@ -11,7 +11,7 @@ TEMAS
 * Introducción
 * Prototipado
 
-**CARPETA: Prototipado mimascota.me**
+## **CARPETA: Prototipado mimascota.me**
 
 ![IMAGE](sketch.jpg "Sketch")
 
