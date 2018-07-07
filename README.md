@@ -36,7 +36,7 @@ TEMAS
 ---
 **1. Mihojadevida**
 ---
-**2. Modulosdesk**
+## **2. Modulosdesk**
 
 ![IMAGE](modulosdesk.png "mi modulosdesk.com")
 
@@ -56,7 +56,7 @@ TEMAS
 * Combinaciones Css
 * Creacion grupos y tema proyecto
 
-**CARPETA: Gol**
+## **CARPETA: Gol**
 
 ![IMAGE](gol.png "mi gol")
 ---
@@ -68,7 +68,7 @@ TEMAS
 * Ecmasript (ES6)
 * Angular
 
-**CARPETA: Listado de partidos**
+## **CARPETA: Listado de partidos**
 
 ![IMAGE](partidos.png "mi listado de partidos")
 ---
