@@ -17,8 +17,11 @@ TEMAS
 ![IMAGE](sketch.jpg "Sketch")
 
 Descripcion: Se trabajaron los 3 estados para desarrollar graficamente una aplicacion:
+    ---
     a. Sketch
+    ---
     b. Wireframe
+    ---
     c. Mockup
 
 # CLASE 2
