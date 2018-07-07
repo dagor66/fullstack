@@ -1,0 +1,26 @@
+.animation{
+    width: 100px;
+    height: 100px;
+    animation-name: ejemploana;
+    animation-duration: 5s;
+    position: relative;
+    background-color: aqua;
+}
+@keyframes ejemploana {
+    from   {background-color: red;}
+    to  {background-color: blue;}
+}
+
+.animation2{
+    animation-name: ejemplobalon;
+    animation-duration: 15s;
+    position: relative;
+}
+@keyframes ejemplobalon {
+    0%   {left:0px; top:0px;}
+    25%  {left:200px; top:0px;}
+    50%  {left:200px; top:200px;}
+    75%  {left:0px; top:200px;}
+    100% {left:300px; top:300px;}
+    }
+

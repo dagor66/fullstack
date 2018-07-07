@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html ng-app="aplicacion">
+
+    <head>
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.2/angular.min.js"></script-->
+        <link rel="stylesheet" href="css/estilo.css">
+        <script src="librerias/angularjs/angular.min.js"></script>
+        <script src="scripts/app.js"></script>
+        <style font-size=30px></style>
+    </head>
+
+    <body ng-controller="ejemploCtrl">
+        <div class="titulo">OCTAVOS DE FINAL</div>
+
+        <div ng-if="equipos.length>0">
+            <div ng-repeat="equipo in equipos">
+                <div ng-if="$index % 2==0">
+                    <img src="http://www.countryflags.io/{{equipo[1]}}/flat/64.png">
+                    <div class="locales">{{equipo[0]}}</div>
+                    <div class="locales">{{equipo[1]}}</div>
+                </div>
+                <div ng-if="$index % 2!=0">
+                        <img src="http://www.countryflags.io/{{equipo[1]}}/flat/64.png">
+                        <div class="visitantes">{{equipo[0]}}</div>
+                        <div class="visitantes">{{equipo[1]}}</div>
+                </div>
+            </div>
+        </div>    
+
+    </body>
+
+</html>

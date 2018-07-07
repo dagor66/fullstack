@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Muli Light'), local('Muli-Light'), url(https://fonts.gstatic.com/s/muli/v11/7Au_p_0qiz-adZnkOCv2yW4PMFk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Muli Regular'), local('Muli-Regular'), url(https://fonts.gstatic.com/s/muli/v11/7Auwp_0qiz-afTzGKwjUwkQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Muli SemiBold'), local('Muli-SemiBold'), url(https://fonts.gstatic.com/s/muli/v11/7Au_p_0qiz-ade3iOCv2yW4PMFk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Muli Bold'), local('Muli-Bold'), url(https://fonts.gstatic.com/s/muli/v11/7Au_p_0qiz-adYnjOCv2yW4PMFk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Muli Black'), local('Muli-Black'), url(https://fonts.gstatic.com/s/muli/v11/7Au_p_0qiz-adbHhOCv2yW4PMFk.woff) format('woff');
+}
+

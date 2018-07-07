@@ -1,0 +1,108 @@
+/* Familia de fuente - no me afecta el diseño - xque??? */
+@font-face {
+    font-family: myFirstFont;
+    src: (https://fonts.gstatic.com/s/muli/v11/7Au_p_0qiz-adZnkOCv2yW4PMFk.woff);
+    }
+
+    div {
+    font-family: myFirstFont;
+    }
+
+/*Vinculos visitados*/
+a:visited {
+    color:#43525A;
+}
+
+/* Atributos del body*/
+body {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-right: 60px;
+    margin-left: 60px;
+    background-image: url("imagenes/espacio_modular.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    color:#43525A;
+    text-decoration: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Atributos del menu superior*/
+div.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+    font-size: 15px;
+    color: #4E5C62;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div.scrollmenu a:link {
+    display: inline-block;
+    text-align: center;
+    font-size: 15px;
+    padding: 9px;
+    text-decoration: none;
+    color: #6f8794;
+}
+div.scrollmenu a:hover {
+    vertical-align: super;
+    color: #28A5BE;
+}
+
+/* Divisones de las partes*/
+.div1 {
+    height: 525px;
+    width: 30%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+    float: left;
+}
+.div2 {
+    width: 70%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+    float: right;
+}
+.div3 {
+    width: 100%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+    float: right;
+    border: #4E5C62, 1px;
+    padding: 0px 50px;
+    background-color: rgb(255, 255, 255);
+    overflow: auto;
+}
+
+
+/* Diseño de botones*/
+.button {
+    background-color: #28A5BE; /* Azul */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin: 0px 0px;
+    cursor: pointer;
+}
+    
+.button1 {
+    background-color: #28A5BE;
+    padding: 32px 32px;
+} /* Azul */
+.button2 {
+    background-color: #43525A;
+    margin: 0px -6px;
+} /* Negro */
+
+.button1:hover {
+    background-color: #28A5BE;
+    padding: 32px 32px;
+    box-shadow: 1px 1px 1px 1px rgba(0.1,0.1,0.1,0.1),  3px 3px 3px 3px rgba(0.2,0.2,0.2,0.2);
+} /* Azul */
+.button2:hover {
+    background-color: #43525A;
+    padding: 15px 50px;
+    margin: 0px -6px;
+} /* Negro */
+
